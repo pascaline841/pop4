@@ -1,4 +1,4 @@
-# Gestion et évolution du Product Backlog
+<h1 align="center">Gestion et évolution du Product Backlog</h1>
 
 En tant que Product Owner chez Faber & Co Real Estate, j'ai été chargée de mettre à jour le site web existant pour répondre à une demande croissante des utilisateurs. Ce projet m'a permis de démontrer mes compétences en gestion de Product Backlog, en planification Agile, et en communication avec les parties prenantes.
 
